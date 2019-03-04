@@ -1,0 +1,9 @@
+\\PSBDFILESRVR.PSU-ERIE.BD.PSU.EDU\STUDENT\MJA5251\Private\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+\\PSBDFILESRVR.PSU-ERIE.BD.PSU.EDU\STUDENT\MJA5251\Private\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\PSBDFILESRVR.PSU-ERIE.BD.PSU.EDU\STUDENT\MJA5251\Private\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+\\PSBDFILESRVR.PSU-ERIE.BD.PSU.EDU\STUDENT\MJA5251\Private\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+\\PSBDFILESRVR.PSU-ERIE.BD.PSU.EDU\STUDENT\MJA5251\Private\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\PSBDFILESRVR.PSU-ERIE.BD.PSU.EDU\STUDENT\MJA5251\Private\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+\\PSBDFILESRVR.PSU-ERIE.BD.PSU.EDU\STUDENT\MJA5251\Private\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+\\PSBDFILESRVR.PSU-ERIE.BD.PSU.EDU\STUDENT\MJA5251\Private\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+\\PSBDFILESRVR.PSU-ERIE.BD.PSU.EDU\STUDENT\MJA5251\Private\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
